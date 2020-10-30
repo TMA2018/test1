@@ -1,4 +1,4 @@
-"use sctrict";
+"use strict";
 
 console.log(1);
 let a = 5;
@@ -10,7 +10,7 @@ let pers = {
     isMarried: true
 };
 
-//console.log(pers["name"]);
+/*console.log(pers["name"]);
 //console.log(confirm("it's true?"));
 let b = +prompt("it's true", 6);
-alert(typeof(b));
+alert(typeof(b));*/
